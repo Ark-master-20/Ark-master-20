@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 
 <img src="./assets/ark-master-banner.svg" alt="Ark-master engineering banner" width="100%">
 
@@ -98,7 +98,7 @@ This profile will grow as projects become ready for public release.
 
 ---
 
-<div align="center>
+<div align="center">
 
 ### ⚡ Learn deeply. Build boldly. Improve continuously.
 
